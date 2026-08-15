@@ -10,8 +10,7 @@
 
 <p align="center">
 
-### ⬇️ [Télécharger CodexForgeJdr_V1.0 (Windows)](https://github.com/CircaFrax/CodexForgeJdr/releases/download/v1.0/CodexForgeJdr_V1.0.zip
-)
+### ⬇️ [Télécharger CodexForgeJdr_V1.0 (Windows)](https://github.com/CircaFrax/CodexForgeJdr/releases/download/v1.0/CodexForgeJdr_V1.0.zip)
 
 `SHA256: 2d5fd4a4fc9024916133203a63a2f1f04004298089f108c836c99d876998c056`
 
