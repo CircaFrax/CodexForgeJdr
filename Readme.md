@@ -21,6 +21,10 @@ Convertisseur de portraits offline pour les vieux CRPG. Un seul fichier HTML + u
 
 Fonctionne 100% en local, aucune image n'est envoyée.
 
+## Aperçu
+<img src="assets/Screenshot_v1.0.0.png" width="650">
+*Sélection de l'univers – 100% offline*
+
 # Sceaux supportés
 ⚔️ Sceau Enhanced - Infinity Engine Enhanced Edition : Baldur's Gate: Enhanced Edition, Baldur's Gate II: EE, Icewind Dale: EE, Planescape: Torment: EE
 Format: BMP 24-bit 210x330 / 169x266 / 54x84 (HD 420x660 conseillé)
@@ -35,9 +39,6 @@ Format: PNG 210x330 lg + 76x96 sm, nommés nom_lg.png / nom_sm.png
 Dossier: PillarsOfEternity_Data/data/art/gui/portraits/player/male ou female
 Utilisation Web via GitHub
 
-## Aperçu
-<img src="assets/Screenshot_v1.0.0.png" width="650">
-*Sélection de l'univers – 100% offline*
 
 # Pour l'EXE
 Disclaimer / Marques
