@@ -21,7 +21,7 @@ Convertisseur de portraits offline pour les vieux CRPG. Un seul fichier HTML + u
 
 Fonctionne 100% en local, aucune image n'est envoyée.
 
-Sceaux supportés
+# Sceaux supportés
 ⚔️ Sceau Enhanced - Infinity Engine Enhanced Edition : Baldur's Gate: Enhanced Edition, Baldur's Gate II: EE, Icewind Dale: EE, Planescape: Torment: EE
 Format: BMP 24-bit 210x330 / 169x266 / 54x84 (HD 420x660 conseillé)
 Dossier: Documents/Icewind Dale - Enhanced Edition/portraits ou Baldur's Gate - Enhanced Edition/portraits
